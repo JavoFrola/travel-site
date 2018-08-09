@@ -33,7 +33,7 @@
     "normalize": "^0.3.1",
     "npm": "^6.1.0",
     "postcss": "^6.0.23",
-    "postcss-hexrgba": "1.0.0",
+    "postcss-hexrgba": "^1.0.0",
     "postcss-import": "^11.0.0",
     "postcss-mixins": "^6.2.0",
     "postcss-nested": "^2.1.2",
